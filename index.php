@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="vi"><!-- HTML5 Compine -->
 <head>
-	<title>Cân bằng phương trình Hóa Học Online &middot; junlxrd</title>
+	<title>Cân bằng phương trình Hóa học &middot; junlxrd</title>
 	<link href="./files/css/style.css" rel="stylesheet">
 	<link href="./files/css/main.css" rel="stylesheet">	
 	<link href="https://fonts.googleapis.com/css?family=Source+Code+Pro" rel="stylesheet">

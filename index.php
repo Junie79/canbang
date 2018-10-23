@@ -201,7 +201,7 @@ function addEvent(obj, eventName, func){
 						</div>
 						<div class="result span12" style="min-height:50px;">
 							<div class="span1" class="float:left">
-								<h2 style="line-height:30px; width:40px;">Result:</h2>
+								<h2 style="line-height:30px; width:40px;">KQ:</h2>
 							</div>
 							<div class="span9" class="float:;">
 								<span id="kq_canbang" class="span9" style="line-height:30px"></span>

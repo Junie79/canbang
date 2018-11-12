@@ -222,6 +222,7 @@ function addEvent(obj, eventName, func){
 			<div class="row">
 				<div class="span12">
 					<div class="tittle">
+											<div class="tittle">
 						<span class="dot heading"></span>
 						<span class="mid-line"></span>
 						<script>var howtousesHide = true;</script>
@@ -232,7 +233,26 @@ function addEvent(obj, eventName, func){
 						<div class="" id="howtouses">
 							
 							<pre><p>Các phương trình có một số quy ước chung khi nhập phương trình:
-	• Các chỉ số được viết ngay bên cạnh kí hiệu hóa học ( CO2, H2O, ... )
+	• Do các chữ số nhỏ không thể thao tác được nên bạn có thể viết ngay bên cạnh.
+		Ví dụ:  CO2 - Cacbondioxit
+			H2O - Nước 
+	• Các công thức của hợp chất hữu cơ viết ở dạng công thức phân tử.
+		Ví dụ: CH2=CH2  ---> C2H4
+	• Để tránh nhầm lẫn có thể viết Cách nhanh.
+		Ví dụ: C O 2    ---> CO2
+	• Viết đúng các kí hiệu hóa học, chú ý chữ hoa và chữ thường.
+		Ví dụ: hcl  ---> Sai    |    HCl --->  Đúng</p></pre>
+						</div>
+						<span class="dot heading"></span>
+						<span class="mid-line"></span>
+						<script>var howtousesHide = true;</script>
+						<h2 class="heading" onClick="if(howtousesHide == true) {$('#howtouses').slideDown();howtousesHide = false;}else{$('#howtouses').slideUp();howtousesHide = true;}">
+							<a href="javascript:;"><span class="first-word">H</span>ướng dẫn</a>
+						</h2>
+					</div>
+						<div class="" id="howtouses">
+							
+							<pre><p>	• Các chỉ số được viết ngay bên cạnh kí hiệu hóa học ( CO2, H2O, ... )
 	• Các hợp chất hữu cơ nên viết ở dạng công thức phân phân tử ( CH3COOH, C2H2, C6H6, ... )
 	• Các kí tự có thể viết rời nhau ( C O 2, H 2 O, ... )
 	• Toàn bộ kí hiệu sử dụng là ngoặc đơn ( [Ag(CH<sub>3</sub>)<sub>2</sub>]OH  viết thành (Ag(CH3)2)OH )

@@ -227,7 +227,7 @@ function addEvent(obj, eventName, func){
 						<span class="mid-line"></span>
 						<script>var howtousesHide = true;</script>
 						<h2 class="heading" onClick="if(howtousesHide == true) {$('#howtouses').slideDown();howtousesHide = false;}else{$('#howtouses').slideUp();howtousesHide = true;}">
-							<a href="javascript:;"><span class="first-word">H</span>ướng dẫn</a>
+							<a href="javascript:;"><span class="first-word">Q</span>uy ước</a>
 						</h2>
 					</div>
 						<div class="" id="howtouses">

@@ -222,7 +222,6 @@ function addEvent(obj, eventName, func){
 			<div class="row">
 				<div class="span12">
 					<div class="tittle">
-											<div class="tittle">
 						<span class="dot heading"></span>
 						<span class="mid-line"></span>
 						<script>var howtousesHide = true;</script>
@@ -235,7 +234,7 @@ function addEvent(obj, eventName, func){
 							<pre><p>Các phương trình có một số quy ước chung khi nhập phương trình:
 	• Do các chữ số nhỏ không thể thao tác được nên bạn có thể viết ngay bên cạnh.
 		Ví dụ:  CO2 - Cacbondioxit
-			H2O - Nước 
+			    H2O - Nước 
 	• Các công thức của hợp chất hữu cơ viết ở dạng công thức phân tử.
 		Ví dụ: CH2=CH2  ---> C2H4
 	• Để tránh nhầm lẫn có thể viết Cách nhanh.
@@ -243,6 +242,7 @@ function addEvent(obj, eventName, func){
 	• Viết đúng các kí hiệu hóa học, chú ý chữ hoa và chữ thường.
 		Ví dụ: hcl  ---> Sai    |    HCl --->  Đúng</p></pre>
 						</div>
+					<div class="tittle">
 						<span class="dot heading"></span>
 						<span class="mid-line"></span>
 						<script>var howtousesHide = true;</script>

@@ -345,7 +345,7 @@ function addEvent(obj, eventName, func){
 					
 					</div>
 					<div class="row span10" style="text-align:left">
-						<b>Email:</b> junie.deeptry@gmail.com &middot; <b>Facebook:</b> <a href="https://facebook.com/junieeeahhh">@junieeeahhh</a> &middot; <b>Github:</b> <a href="https://github.com/Junie79/">@Junie79</a> <b>Special thanks to <a href="mailto:duyet2000@gmail.com" target="_blank" style="color:#555;"><u>yplitgroup (duyet2000@gmail.com)</u></a></b> <br /><br />
+						<b>Email:</b> junie.deeptry@gmail.com &middot; <b>Facebook:</b> <a href="https://facebook.com/junieeeahhh">@junieeeahhh</a> &middot; <b>Github:</b> <a href="https://github.com/Junie79/">@Junie79</a> <b>Special thanks to <a href="mailto:duyet2000@gmail.com" target="_blank" style="color:#555;"><u>yplitgroup (duyet2000@gmail.com)</u></a> ♥</b> <br /><br />
 						
 						Cân bằng phương trình hóa học &middot; <?= 'load on 0.' . rand(111,222) . 's' ?> &middot; 
 						<a href="https://junie79.github.io/" target="_blank">My Website</a>

@@ -1,25 +1,3 @@
-/*        Cân bằng phương trình hóa học      */
-/*        Hoạt động tốt trên FireFox, Chrome     */
-/*
-* Các quy ước chung khi sử dụng Script như sau:
-*    - Do các chữ số nhỏ không thể thao tác được nên bạn có thể 
-*      viết ngay bên cạnh.
-*      Ví dụ: CO2 - Cacbondioxit
-*             H2O - Nước 
-*    - Các công thức của hợp chất hữu cơ viết ở dạng công thức phân tử 
-*      Ví dụ: CH2=CH2  ---> C2H4
-*    - Để tránh nhầm lẫn có thể viết Cách nhanh
-*      Ví dụ: C O 2    ---> CO2
-*    - Viết đúng các kí hiệu hóa học, chú ý chữ hoa và chữ thường.
-*      Ví dụ: hcl  ---> Sai      ====> HCl --->  Đúng
-*/
-
-/*
-* @ (c) 2012 yplitgroup
-* @ Email: duyet2000@gmail.com
-* @ Facebook: https://facebook.com/yplitgroup
-*/
-
 // Sent request
 // AJAX Require ( Not use IE )
 function createObject()
